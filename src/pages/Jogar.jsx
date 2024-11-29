@@ -254,7 +254,7 @@ function Jogar() {
 
   return (
     <div className="flex items-center justify-center mt-5">
-      <div className="border w-[50%] flex flex-col items-center justify-center p-10 bg-zinc-600 text-white">
+      <div className="border w-full flex flex-col items-center justify-center p-10 bg-zinc-600 text-white">
         <label className="text-justify">
           Se clicares no botão "Rodar" vais ter uma palavra da nossa coleção
           aleatoriamente, e as imagens que vão aparecer no ecrã serão as letras
